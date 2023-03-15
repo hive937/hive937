@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning Python, Django, DRF, GoLang
 - 👯 I’m looking to collaborate on any open-source projects
-- 🤔 I’m looking for help with ...
 
 <div id="badges">
   <a href="https://vk.com/parashut99">
