@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Python, Django, DRF, GoLang
+- 🌱 I’m currently learning Python, Django, DRF, PostgreSQL, Linux
 - 👯 I’m looking to collaborate on any open-source projects
 
 <div id="badges">
